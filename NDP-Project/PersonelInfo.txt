@@ -1,0 +1,6 @@
+Sude,Andurman,1
+Aslı,Karahan,2
+Cemil,Kıraç,3
+Cemre,Çelik,4
+Şerife,Pamuk,5
+Kıraç,Haklı,6

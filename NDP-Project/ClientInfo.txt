@@ -1,0 +1,6 @@
+Ahmet,Çakır,1
+Zeynep,Şallı,2
+Alev,Ordu,3
+Zehra,Kereviz,4
+Sena,Uzman,5
+Berra,Fikirli,6

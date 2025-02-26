@@ -1,0 +1,5 @@
+Ahmet Çakır,Sude Andurman,Lazer epilasyon   1000 TL,29.05.2024
+Sena Uzman,Sude Andurman,Günlük makyaj   275 TL,31.05.2024
+Sena Uzman,Sude Andurman,Jel manikür   250 TL,31.05.2024
+Alev Ordu,Şerife Pamuk,Kirpik Ekstensions   600 TL,14.06.2024
+Berra Fikirli,Kıraç Haklı,Yüz bakımı   1900 TL,7.06.2024
